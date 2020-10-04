@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen">
+    <sys_sg_list_screen action="DELETE">
+        <available_offline>false</available_offline>
+        <description>View all open NeedIt records for a specific Request type</description>
+        <dynamic_prefetch_count/>
+        <fetch_type>on_demand</fetch_type>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-Handshake">bbe2ecfe07e3d010a913f0269c1ed033</icon>
+        <name>By Request Type</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_list_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-02 22:25:18</sys_created_on>
+        <sys_id>b3e2ecfe07e3d010a913f0269c1ed039</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>By Request Type</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_list_screen_b3e2ecfe07e3d010a913f0269c1ed039</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-02 22:38:09</sys_updated_on>
+    </sys_sg_list_screen>
+    <sys_translated_text action="DELETE" query="documentkey=b3e2ecfe07e3d010a913f0269c1ed039"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>50aedad5db467308b847ac44d49619f8</instance_id>
+        <instance_name>dev87196</instance_name>
+        <name>sys_sg_list_screen_b3e2ecfe07e3d010a913f0269c1ed039</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen"><sys_sg_list_screen action="INSERT_OR_UPDATE"><available_offline>false</available_offline><description>View all open NeedIt records for a specific Request type</description><dynamic_prefetch_count/><fetch_type>on_demand</fetch_type><hide_filters>false</hide_filters><hide_screen_name>false</hide_screen_name><icon display_value="icon-Handshake">bbe2ecfe07e3d010a913f0269c1ed033</icon><name>By Request Type</name><roles_override/><sys_class_name>sys_sg_list_screen</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-02 22:25:18</sys_created_on><sys_id>b3e2ecfe07e3d010a913f0269c1ed039</sys_id><sys_mod_count>1</sys_mod_count><sys_name>By Request Type</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_sg_list_screen_b3e2ecfe07e3d010a913f0269c1ed039</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-02 22:38:09</sys_updated_on></sys_sg_list_screen><sys_translated_text action="delete_multiple" query="documentkey=b3e2ecfe07e3d010a913f0269c1ed039"/></record_update>]]></payload>
+        <payload_hash>-502139431</payload_hash>
+        <record_name>By Request Type</record_name>
+        <reverted_from/>
+        <source>30b6e79207e79010a913f0269c1ed059</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-02 22:38:10</sys_created_on>
+        <sys_id>d8e560b20727d010a913f0269c1ed099</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>174eb772c8e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-02 22:38:10</sys_updated_on>
+        <type>List screen</type>
+        <update_guid>d0e560b2f227d01002833323a82bbd99</update_guid>
+        <update_guid_history>d0e560b2f227d01002833323a82bbd99:-502139431,3be2ecfeaee3d010acbfdf027735d83b:-1848436799</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-02 22:41:49</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_list_screen">sys_sg_list_screen</sys_db_object>
+        <sys_id>64079421d0444e288bdae7df0eae3610</sys_id>
+        <sys_metadata>b3e2ecfe07e3d010a913f0269c1ed039</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>By Request Type</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_sg_list_screen_b3e2ecfe07e3d010a913f0269c1ed039</sys_update_name>
+        <sys_update_version display_value="sys_sg_list_screen_b3e2ecfe07e3d010a913f0269c1ed039">d8e560b20727d010a913f0269c1ed099</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-02 22:41:49</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
