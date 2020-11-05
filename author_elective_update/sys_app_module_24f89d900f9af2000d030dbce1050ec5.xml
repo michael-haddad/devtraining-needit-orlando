@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>false</active>
+        <application display_value="NeedIt">0242fb8d0fa83200cd674f8ce1050e79</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>DIRECT</link_type>
+        <map_page/>
+        <mobile_title>Properties</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>900</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query>system_properties_ui.do?sysparm_title=NeedIt Application Properties&amp;sysparm_category=NeedIt Properties</query>
+        <report/>
+        <roles>x_58872_needit.admin</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-04-19 03:32:12</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>24f89d900f9af2000d030dbce1050ec5</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Properties</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_app_module_24f89d900f9af2000d030dbce1050ec5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-14 14:03:48</sys_updated_on>
+        <timeline_page/>
+        <title>Properties</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>50aedad5db467308b847ac44d49619f8</instance_id>
+        <instance_name>dev87196</instance_name>
+        <name>sys_app_module_24f89d900f9af2000d030dbce1050ec5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <application display_value="NeedIt">0242fb8d0fa83200cd674f8ce1050e79</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>DIRECT</link_type>
+        <map_page/>
+        <mobile_title>Properties</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>900</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query>system_properties_ui.do?sysparm_title=NeedIt Application Properties&amp;sysparm_category=NeedIt Properties</query>
+        <report/>
+        <roles>x_58872_needit.admin</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-04-19 03:32:12</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>24f89d900f9af2000d030dbce1050ec5</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Properties</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_app_module_24f89d900f9af2000d030dbce1050ec5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-14 14:03:48</sys_updated_on>
+        <timeline_page/>
+        <title>Properties</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>]]></payload>
+        <payload_hash>-2095410222</payload_hash>
+        <record_name>Properties</record_name>
+        <reverted_from/>
+        <source>ce0137e007182410a913f0269c1ed036</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-02 20:27:19</sys_created_on>
+        <sys_id>8231bfe007182410a913f0269c1ed0aa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1758aa4876a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-02 20:27:19</sys_updated_on>
+        <type>Module</type>
+        <update_guid>ce31bfe061182410e75e9019922b5ea9</update_guid>
+        <update_guid_history>ce31bfe061182410e75e9019922b5ea9:0,27113be0e4182410b4c7766925f59bd9:-1438713871,ea113be0f1182410be11f088c6e49957:0,c2c5cfdcf1d8e01044a3f8fbda8c955d:0,4f7d7487108020105d076a6c638d9edd:-1438713871,8e7d7487a98020101b9bae0c8a4a0b2b:0,ace8313d770c2010bdd883cf44b074f1:0,b63c18ec5f88a0108517b41d11474ce5:-1438713871,fd3c18ecb888a0100b2692f5b605591b:0,fd6ddb942108a01028bf0e86699aea38:0,3b3dd3940308a01099503a4e83e9a96f:554819640,063d93948b08a010b0d9e70cd9da1f7e:0,a633286e1eb35410eda739f61f2766a1:789041116,ea265ff1a7bbd01066a6172415c7b9b7:0,75e20eca552b50103bd08185be58c48c:-1438713871,05e2cacabc2b50100b6fc5cb71588efb:0,0b9820287a27501036d468b8e23bd5d6:0,cb0249e3e817501012c6b53246e8529a:-1438713871,8e0209e3ce175010c4ac5518b4f2f89e:0,2037318bea5310105f73cd3997d3d36b:0,8f17f94be15310100604e44185b2dc02:-1438713871,5e17b94bb8531010ed6953cc87a8f650:0,f47cf079c49b50106edcba0d5b15883d:0,036adaed3fd3501086201adfe8c2ed6c:-1438713871,d86a5aed43d350104758faf7743c9552:0,f43e55d415db5010e4309f3b4e0306e0:1047398001</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Properties">9262866907102010a913f0269c1ed0bd</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-05 14:57:07</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>8eb4aff6ef3441f498be9e2e2066d110</sys_id>
+        <sys_metadata>24f89d900f9af2000d030dbce1050ec5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Properties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_app_module_24f89d900f9af2000d030dbce1050ec5</sys_update_name>
+        <sys_update_version display_value="sys_app_module_24f89d900f9af2000d030dbce1050ec5">8231bfe007182410a913f0269c1ed0aa</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-05 14:57:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
