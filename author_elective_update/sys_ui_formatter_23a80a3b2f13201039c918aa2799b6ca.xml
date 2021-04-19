@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_formatter">
+    <sys_ui_formatter action="DELETE">
+        <active>true</active>
+        <angular_module/>
+        <formatter>checklist_template.xml</formatter>
+        <name>MyChecklist Formatter</name>
+        <sys_class_name>sys_ui_formatter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-10 18:20:00</sys_created_on>
+        <sys_id>23a80a3b2f13201039c918aa2799b6ca</sys_id>
+        <sys_mod_count>12</sys_mod_count>
+        <sys_name>MyChecklist Formatter</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ui_formatter_23a80a3b2f13201039c918aa2799b6ca</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-10 18:52:08</sys_updated_on>
+        <table>dl_u_priority</table>
+        <type>formatter</type>
+    </sys_ui_formatter>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>84df5cbbdbe55b4089535d00cf961907</instance_id>
+        <instance_name>dev57208</instance_name>
+        <name>sys_ui_formatter_23a80a3b2f13201039c918aa2799b6ca</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_formatter"><sys_ui_formatter action="INSERT_OR_UPDATE"><active>true</active><angular_module/><formatter>checklist_template.xml</formatter><name>MyChecklist Formatter</name><sys_class_name>sys_ui_formatter</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-04-10 18:20:00</sys_created_on><sys_id>23a80a3b2f13201039c918aa2799b6ca</sys_id><sys_mod_count>12</sys_mod_count><sys_name>MyChecklist Formatter</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ui_formatter_23a80a3b2f13201039c918aa2799b6ca</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-04-10 18:52:08</sys_updated_on><table>dl_u_priority</table><type>formatter</type></sys_ui_formatter></record_update>]]></payload>
+        <payload_hash>1472361491</payload_hash>
+        <record_name>MyChecklist Formatter</record_name>
+        <reverted_from/>
+        <source>a6359ab007916010146dff4c7c1ed0eb</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-10 18:52:08</sys_created_on>
+        <sys_id>7d30927f2f13201039c918aa2799b6ff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>178bd20845c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-10 18:52:08</sys_updated_on>
+        <type>UI Formatter</type>
+        <update_guid>b530927f9e13201098119940f5f579ff</update_guid>
+        <update_guid_history>b530927f9e13201098119940f5f579ff:1472361491,b300da7f54132010c6a264b5287a0b30:-1953205860,41ff02bf57132010b4fc11cb664bd239:1472361491,805f0a7f4813201053ce1944584d0f65:1044110223,d62f827f60132010b8ba0cad803bc2f6:229724026,d1cec63f63132010c08fcdba7ca62e51:-331969428,019e0e3fd113201002bd77882b548899:-1912830151,bb3e023f20132010596a6e217dbe3331:213794421,8fcd423f63132010c0d0f440cd4e6d22:1044110223,a1bd023fd1132010c711c828b11564d8:1472361491,ca8c0abbad132010bb6bdf46116655cd:751623635,5d090e3b471320109575b1843908d7cc:-1941633060,9fd80ef7d5132010967348ef05576158:1396478016</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-10 18:53:13</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_formatter">sys_ui_formatter</sys_db_object>
+        <sys_id>24a0d71afd7640508802c342cabdd100</sys_id>
+        <sys_metadata>23a80a3b2f13201039c918aa2799b6ca</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>MyChecklist Formatter</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="Dl U Priority">1c277f44c967101091f9f0646483272f</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ui_formatter_23a80a3b2f13201039c918aa2799b6ca</sys_update_name>
+        <sys_update_version display_value="sys_ui_formatter_23a80a3b2f13201039c918aa2799b6ca">7d30927f2f13201039c918aa2799b6ff</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-10 18:53:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
